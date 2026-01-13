@@ -67,9 +67,11 @@ Copiar código
 ▶️ Cómo ejecutar el proyecto
 Clona el repositorio
 
+
+
 bash
 Copiar código
-git clone https://github.com/tu-usuario/assassins-creed-cards.git
+git clone https://github.com/webermuros1-oss/assasinsCreedCards
 Entra en la carpeta
 
 bash
