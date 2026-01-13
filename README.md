@@ -8,6 +8,7 @@ Cada tarjeta incluye imagen, nombre, juego, época y una breve descripción.
 ## 📸 Vista previa
 
 > Proyecto visual tipo cards responsive, ideal para practicar componentes, props y renderizado con `.map()`.
+![Captura assasinsCreedCards](https://github.com/user-attachments/assets/15696ca3-0210-4c15-bc87-3bed03e7928d)
 
 ---
 
