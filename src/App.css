@@ -1,4 +1,3 @@
-/* ====== Estilos generales ====== */
 .app {
   text-align: center;
   padding: 20px;
@@ -11,7 +10,7 @@ h1 {
   text-shadow: 2px 2px 4px white;
 }
 
-/* ====== Grid de tarjetas ====== */
+
 .tarjetas-grid {
   display: flex;
   flex-wrap: wrap;
@@ -19,7 +18,7 @@ h1 {
   justify-content: center;
 }
 
-/* ====== Tarjeta ====== */
+
 .tarjeta {
   width: 220px;
   border: 1px solid #3f3ea7;
@@ -27,17 +26,17 @@ h1 {
   background: rgb(199, 211, 214);
   border-radius: 8px;
   text-align: center;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
 .tarjetaImg {
   width: 100%;
   height: 140px;
-  object-fit: fixed; /* ❌ corregido de 'fixed' a 'cover' */
+  object-fit: fixed;
   border-radius: 5px;
 }
 
-/* ====== Textos ====== */
+
 .tarjetaNombre {
   font-size: 18px;
   margin: 10px 0 5px;
@@ -55,46 +54,51 @@ h1 {
   font-size: 13px;
 }
 
-/* ====== RESPONSIVE ====== */
 
-/* Tablets (menos de 900px) */
 @media (max-width: 900px) {
   .tarjeta {
     width: 45%;
   }
+
   .tarjetas-grid {
     gap: 15px;
   }
 }
 
-/* Móviles grandes (menos de 600px) */
+
 @media (max-width: 600px) {
   .tarjeta {
     width: 90%;
   }
+
   h1 {
     font-size: 2.2rem;
   }
+
   .tarjetaDescripcion {
     font-size: 14px;
   }
 }
 
-/* Móviles pequeños (menos de 400px) */
+
 @media (max-width: 400px) {
   .tarjeta {
     width: 100%;
   }
+
   h1 {
     font-size: 1.8rem;
   }
+
   .tarjetaNombre {
     font-size: 16px;
   }
+
   .tarjetaJuego,
   .tarjetaEpoca {
     font-size: 12px;
   }
+
   .tarjetaDescripcion {
     font-size: 12px;
   }
