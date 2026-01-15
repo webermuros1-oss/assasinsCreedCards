@@ -11,6 +11,7 @@ Cada tarjeta incluye imagen, nombre, juego o libro asociado, época y una breve 
 > Proyecto visual tipo *cards*, responsive, ideal para practicar React moderno.
 
 
+<img width="1892" height="915" alt="Captura projecto final" src="https://github.com/user-attachments/assets/392f7870-887e-4a13-8b07-181a77945885" />
 
 ---
 
