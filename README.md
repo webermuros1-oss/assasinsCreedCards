@@ -158,7 +158,7 @@ npm run deploy
 
 **Heber Paris Caamaño**
 Estudiante de Bootcamp Full Stack
-Apasionado por el desarrollo web, **React** y la **ciberseguridad** 🚀
+Apasionado por el desarrollo web 🚀
 
 ---
 
