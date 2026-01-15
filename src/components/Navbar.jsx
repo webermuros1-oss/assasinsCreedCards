@@ -20,16 +20,6 @@ const Navbar = () => {
                         Libros
                     </Link>
                 </li>
-                <li>
-                    <a
-                        href="https://es.wikipedia.org/wiki/Assassin%27s_Creed_(pel%C3%ADcula)"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="hover:text-violet-200 transition-colors"
-                    >
-                        Películas
-                    </a>
-                </li>
             </ul>
         </nav>
     );

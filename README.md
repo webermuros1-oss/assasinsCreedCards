@@ -97,6 +97,7 @@ package.json
 ## 🧩 Ejemplo de componente
 
 ```jsx
+
 <Tarjeta 
   nombre="Ezio Auditore"
   juego="Assassin's Creed II"
@@ -104,6 +105,7 @@ package.json
   descripcion="Asesino italiano que vengó a su familia."
   imagen={ezio}
 />
+
 ```
 
 ---
